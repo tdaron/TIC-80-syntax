@@ -26,26 +26,28 @@ SOFTWARE.
 --]]
 
 ---@diagnostic disable
----@class color_0-15
----@class button_0-31
----@class key_1-94
----@class sprite_0-511
----@class flag_0-7
----@class bank_0-7
----@class vbank_0-1
----@class sfx_0-63
----@class music_0-7
----@class channel_0-3
----@class note_0-95
----@class volume_0-15
----@class speed_-4-3
----@class flip_0-3
----@class rotate_0-3
----@class texsrc_0-3
----@class index_0-255
----@class bits_1_2_4_8
----@class val32_0-4294967295
----@class val8_0-255
+---@class color_0-15:number
+---@class button_0-31:number
+---@class key_1-94:number
+---@class sprite_0-511:number
+---@class flag_0-7:number
+---@class bank_0-7:number
+---@class vbank_0-1:number
+---@class sfx_0-63:number
+---@class music_0-7:number
+---@class channel_0-3:number
+---@class note_0-95:number
+---@class volume_0-15:number
+---@class speed_-4-3:number
+---@class flip_0-3:number
+---@class rotate_0-3:number
+---@class texsrc_0-3:number
+---@class index_0-255:number
+---@class bits_1_2_4_8:number
+---@class val32_0-4294967295:number
+---@class val8_0-255:number
+
+
 
 ---This function allows you to read the status of TIC's controller buttons.
 ---
